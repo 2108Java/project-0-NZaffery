@@ -1,4 +1,5 @@
-package project0.account.info;
+package com.accounts;
+
 
 public class CustomerAccount {
 

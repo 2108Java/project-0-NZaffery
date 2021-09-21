@@ -1,4 +1,5 @@
-package util;
+package com.connectionfactory;
+
 
 import java.sql.Connection;
 import java.sql.DriverManager;

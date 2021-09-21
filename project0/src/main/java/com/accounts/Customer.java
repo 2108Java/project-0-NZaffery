@@ -1,4 +1,5 @@
-package project0.account.info;
+package com.accounts;
+
 
 public class Customer {
 
@@ -20,6 +21,7 @@ public class Customer {
 	        this.phone = phone;
 	        this.email = email;
 	        this.approved=approved;
+	        approved=false;
 	    }
 	
 	

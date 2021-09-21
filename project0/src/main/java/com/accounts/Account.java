@@ -1,10 +1,11 @@
-package project0.account;
-
-import project0.account.info.Customer;
-
+package com.accounts;
 public abstract class Account {
 	
 	
+	public interface java {
+
+	}
+
 	protected static int accountsCount=0;
 	
 	
